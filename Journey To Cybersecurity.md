@@ -12,7 +12,7 @@ I am motivated by curiosity about how systems work and a drive to help secure di
 
 ### First Month of Learning
 I began with **Introduction to Cybersecurity (Cisco Networking Academy)**.  
-Notes are available in the branch: `Introduction-To-Cybersec`.
+Notes are available in the branch: `Foundations`.
 
 ---
 
